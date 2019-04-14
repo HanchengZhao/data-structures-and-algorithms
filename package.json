@@ -1,0 +1,26 @@
+{
+  "name": "data-structures-and-algorithms",
+  "version": "1.0.0",
+  "description": "implementation of common data structures and algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HanchengZhao/data-structures-and-algorithms.git"
+  },
+  "keywords": [
+    "data",
+    "structure"
+  ],
+  "author": "Henry Zhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HanchengZhao/data-structures-and-algorithms/issues"
+  },
+  "homepage": "https://github.com/HanchengZhao/data-structures-and-algorithms#readme",
+  "dependencies": {
+    "jest": "^24.7.1"
+  }
+}
