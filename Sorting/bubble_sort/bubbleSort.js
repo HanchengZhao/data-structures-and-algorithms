@@ -1,6 +1,10 @@
 /**
  * https://en.wikipedia.org/wiki/Bubble_sort
  * @param arr array of integers
+ * Bubble sort compares adjacent elements, and eventually
+ * swaps the elements in the right position
+ * Worst Time complexity: O(n^2)
+ * Space complexity: O(1)
  */
 
 function BubbleSort(arr) {
