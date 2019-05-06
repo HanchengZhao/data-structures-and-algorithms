@@ -1,3 +1,12 @@
+/**
+ * The idea of the quick sort is to use a pivot to partition the array recursively
+ * We can always swap the elements to the right position in order to save space.
+ * It is an in-place, unstable sort algorithm
+ * Time complexity: worst case O(nlogn)
+ * space complexity: O(1)
+ *
+ * @param {array} array array to be sorted
+ */
 function quickSort(array) {
   quickSort_range(array, 0, array.length - 1);
 }
