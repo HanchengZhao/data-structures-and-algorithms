@@ -7,3 +7,5 @@
   - [Selection sort](./Sorting/selection_sort)
   - [Merge sort](./Sorting/merge_sort)
   - [Quick sort](./Sorting/quick_sort)
+- [Search](./Search)
+  - [Binary Search](./Search/Binary_Search)
