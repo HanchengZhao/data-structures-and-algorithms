@@ -1,6 +1,12 @@
 # data-structures-and-algorithms
 
+## data structures
+
 - [Linkedlist](./LinkedList)
+- [Skip list](./SkipList)
+
+## algorithms
+
 - [Sorting](./Sorting)
   - [Bubble sort](./Sorting/bubble_sort)
   - [Insertion sort](./Sorting/insertion_sort)
